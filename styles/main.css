@@ -1,0 +1,19 @@
+#app-navbar{
+    background: #385894 !important;
+    padding-top:0;
+    padding-bottom:0;
+    
+}
+
+#app-navbar .navbar-brand{
+      color:#fff !important;  
+      font-size:38px !important;
+      
+}
+.text-white{
+    color:white;
+}
+.Login-btn{
+    vertical-align: top;
+    margin-top: 23px;
+}
